@@ -145,8 +145,10 @@ html ::-webkit-scrollbar-thumb {
 }
 
 @media (max-width: 1200px) {
-  .cabecalho {
-    padding: 1%;
+   .cabecalho__menu {
+    gap: 10%;
+    padding: 5%;
+    width: auto;
   }
 
   .apresentacao {
